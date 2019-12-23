@@ -1,0 +1,29 @@
+{
+    "go.gopath": "/home/lubenets/pcworkspace/go-restful",
+    "go.goroot": "/usr/local/go",
+    "go.toolsGopath": "/home/lubenets/go",
+    "terminal.integrated.env.linux": {
+        "GOPATH": "/home/lubenets/pcworkspace/go-restful",
+        "GOROOT": "/usr/local/go"
+    },
+    "go.formatTool": "gofmt",
+    "editor.renderWhitespace": "all",
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "go.useLanguageServer": false,
+    "go.languageServerExperimentalFeatures": {
+        "format": true,
+        "autoComplete": true,
+        "rename": true,
+        "goToDefinition": true,
+        "hover": true,
+        "signatureHelp": true,
+        "goToTypeDefinition": true,
+        "goToImplementation": true,
+        "documentSymbols": true,
+        "workspaceSymbols": true,
+        "findReferences": true,
+        "diagnostics": true,
+        "documentLink": true
+    },
+    "cmake.configureOnOpen": false
+}
